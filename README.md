@@ -7,7 +7,7 @@
 
 # Hello GitHub Actions
 
-_Create a GitHub Action and use it in a workflow.😄_
+_Create a GitHub Action and use it in a workflow.<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>_
 
 <!--
   <<< Author notes: Start of the course >>>
